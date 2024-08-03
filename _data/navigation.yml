@@ -1,7 +1,6 @@
 # main links links
 main:
   - title: "Publications"
-    # url: /publications/
     url: "https://scholar.google.com/citations?hl=it&user=yobAbbsAAAAJ"
 
   - title: "Talks"
@@ -10,7 +9,7 @@ main:
   - title: "CV"
     url: /cv/
     
-    
+  # url: /publications/
   #- title: "Guide"
   #  url: /markdown/
 
