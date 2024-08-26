@@ -1,13 +1,26 @@
 ---
 permalink: /
-title: "Leonardo Di Bari"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Ciao ciao ciao his is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my academic website! I am Leonardo Di Bari, a PhD candidate jointly at [Politecnico di Torino](https://www.polito.it/personale?p=leonardo.dibari) and [Sorbonne Universitè](https://www.sorbonne-universite.fr/). I have previously obtained my MSc.degree in [Physics of Complex Systems](http://www.pcs.polito.it/educational_tracks/international_track) from a joint collaboration of [Politecnico di Torino](https://www.polito.it/personale?p=leonardo.dibari), [SISSA](https://www.sissa.it/it), [ICTP](https://www.ictp.it/), [Sorbonne Universitè](https://www.sorbonne-universite.fr/), [Universitè Paris Citè](https://u-paris.fr/en/) and [Paris-Saclay](https://www.universite-paris-saclay.fr/en/). 
+
+My research is focused on understanding protein evolution through the lens of statistical physics and machine learning. I personally develop data-driven interpretable generative models that mimic evolution and that can be used for a broad spectrum of tasks in protein research.
+
+I work under the supervision of [Martin Weigt](https://scholar.google.com/citations?user=HU1K_zsAAAAJ&hl=en), [Andrea Pagnani](https://www.polito.it/en/staff?p=andrea.pagnani) and [Francesco Zamponi](https://www.phys.ens.psl.eu/~zamponi/). 
+
+Previous supervisors
+======
+[Jacopo Grilli](https://jacopogrilli.github.io/group/), Quantitative Ecology and Evolution Group at ICTP, Trieste, ITA  
+[Orlando Panella](https://inspirehep.net/authors/994380), [Università degli Studi di Perugia](https://www.unipg.it/), Perugia, ITA
+
+
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
