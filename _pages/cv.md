@@ -7,20 +7,23 @@ redirect_from:
   - /resume
 ---
 
-You can also find my CV [here](http://leonardodibari..github.io/files/academic_cv.pdf).
+You can also find my CV [here](http://leonardodibari.github.io/files/academic_cv.pdf).
 
 Education
 ======
-* 2023-2026 **PhD Candidate, Physics** \ *Politecnico di Torino & Sorbonne Universitè (co-tutelle)*
+* 2023-2026 **PhD Candidate, Physics** \ 
+*Politecnico di Torino & Sorbonne Universitè (co-tutelle)*
   * Advisors: Andrea Pagnani, Martin Weigt
   * Dissertation: “Statistical-physics inspired learning of the protein sequence universe”
 
-* 2021-2023	**M.S. double degree (France & Italy) in Physics of Complex Systems** \ *Politecnico di Torino Sorbonne Universitè/Paris Saclay/Paris Citè, Sissa/Ictp*
+* 2021-2023	**M.S. double degree (France & Italy) in Physics of Complex Systems** \ 
+*Politecnico di Torino Sorbonne Universitè/Paris Saclay/Paris Citè, Sissa/Ictp*
   * Final mark: 110L/110
   * Advisors: Martin Weigt, Francesco Zamponi
   * Final project: “Modeling the stochastic dynamics of protein evolution experiments using protein sequence landscapes”
 
-* 2018-2021 **B.S. degree in Physics** \ *Università degli Studi di Perugia*
+* 2018-2021 **B.S. degree in Physics** \ 
+*Università degli Studi di Perugia*
   * Final mark: 110L/110
   * Advisor: Orlando Panella
   * Final project: “Quantum backflow for a massless Dirac fermion on a ring”
@@ -28,11 +31,13 @@ Education
 
 Work experience
 ======
-* 2023 **PhD Candidate, Physics** \ *Politecnico di Torino & Sorbonne Universitè (co-tutelle)*
+* 2023 **PhD Candidate, Physics** \ 
+*Politecnico di Torino & Sorbonne Universitè (co-tutelle)*
   * Dissertation: “Statistical-physics inspired learning of the protein sequence universe”
   * Topics: sttistical inference, machine learning, biostatistics
   
-* 2023 **Data Analyst** \ *Intellera consulting*
+* 2023 **Data Analyst** \ 
+*Intellera consulting*
   * Duties: data lineage, data analysis, data visualization
 
 
