@@ -7,20 +7,23 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can also find my CV [here](http://leonardodibari..github.io/files/academic_cv.pdf).
 
 Education
 ======
-* 2023 PhD Candidate, Physics, Politecnico di Torino & Sorbonne Universitè (co-tutelle)
+* 2023-2026 **PhD Candidate, Physics**
+            *Politecnico di Torino & Sorbonne Universitè (co-tutelle)*
   * Advisors: Andrea Pagnani, Martin Weigt
   * Dissertation: “Statistical-physics inspired learning of the protein sequence universe”
 
-* 2021	M.S. double degree (France & Italy) in Physics of Complex Systems, Politecnico di Torino | Sorbonne Universitè/Paris Saclay/Paris Citè | Sissa/Ictp
+* 2021-2023	**M.S. double degree (France & Italy) in Physics of Complex Systems**
+            *Politecnico di Torino Sorbonne Universitè/Paris Saclay/Paris Citè, Sissa/Ictp*
   * Final mark: 110L/110
   * Advisors: Martin Weigt, Francesco Zamponi
   * Final project: “Modeling the stochastic dynamics of protein evolution experiments using protein sequence landscapes”
 
-* B.S. degree in Physics, Università degli Studi di Perugia
+* 2018-2021 **B.S. degree in Physics**
+            *Università degli Studi di Perugia*
   * Final mark: 110L/110
   * Advisor: Orlando Panella
   * Final project: “Quantum backflow for a massless Dirac fermion on a ring”
@@ -28,7 +31,8 @@ Education
 
 Work experience
 ======
-* 2023 PhD Candidate, Physics, Politecnico di Torino & Sorbonne Universitè (co-tutelle)
+* 2023 **PhD Candidate, Physics** 
+Politecnico di Torino & Sorbonne Universitè (co-tutelle)
   * Dissertation: “Statistical-physics inspired learning of the protein sequence universe”
   * Topics: sttistical inference, machine learning, biostatistics
   
@@ -57,8 +61,8 @@ Awarded Grants
 * 2023	PhD Scholarship from Politecnico di Torino
 * 2023	PhD Scholarship from Università La Sapienza Roma - rejected
 * 2023	PhD Scholarship from Università degli Studi di Padova - rejected
-* 2022	 Smarts-Up Excellence Scholarship of Universitè Paris Citè
+* 2022	Smarts-Up Excellence Scholarship of Universitè Paris Citè
 * 2021	Erasmus Scholarship for Double Degree in physics of Complex Systems
-* 2021	 Excellence Scholarship of Università degli Studi di Perugia
+* 2021	Excellence Scholarship of Università degli Studi di Perugia
 * 2020	Excellence Scholarship of Università degli Studi di Perugia
 * 2019	Excellence Scholarship of Università degli Studi di Perugia
