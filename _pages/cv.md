@@ -11,7 +11,7 @@ You can also find my CV [here](http://leonardodibari.github.io/files/academic_cv
 
 Education
 ======
-* 2023-2026 **PhD Candidate, Physics** \ 
+* 2023-2026 **PhD Candidate, Physics** <br>
 *Politecnico di Torino & Sorbonne Universitè (co-tutelle)*
   * Advisors: Andrea Pagnani, Martin Weigt
   * Dissertation: “Statistical-physics inspired learning of the protein sequence universe”
@@ -34,7 +34,7 @@ Work experience
 * 2023 **PhD Candidate, Physics** \ 
 *Politecnico di Torino & Sorbonne Universitè (co-tutelle)*
   * Dissertation: “Statistical-physics inspired learning of the protein sequence universe”
-  * Topics: sttistical inference, machine learning, biostatistics
+  * Topics: statistical inference, machine learning, biostatistics
   
 * 2023 **Data Analyst** \ 
 *Intellera consulting*
